@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @stephanybajza
-- 👀 I’m interested in ...lots of thongs
-- 🌱 I’m currently learning ...my life
-- 💞️ I’m looking to collaborate on ...my life
-- 📫 How to reach me .. stephbajza2@gmail.com 7
+- 👀 I’m interested in ...lots of things
+- 🌱 I’m currently learning ...code
+- 💞️ I’m looking to collaborate on ... project's 
+- 📫 How to reach me .. stephbajza@outlook.com 
 
 <!---
 stephanybajza/stephanybajza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
